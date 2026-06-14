@@ -14,6 +14,6 @@
 
 ## iic_br.md:
 
-- glm-5.2 / cc :
+- glm-5.2 / cc : 无法完成
 - dsV4-pro max / opencode : 完成
 
